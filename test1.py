@@ -4,5 +4,6 @@ print("I hope you are doing great!")
 x = 32
 y = 45
 z = x-y
-print("THE result of code is not positive: ", z)
+
+print("THE result of code is not positive (negative): ", z)
 
